@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>VIJAY-VM-WIN8</Machine>
+    <WindowsUser>Vijaychandar</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>6d005d37-c3f7-4792-a964-c9bc0278b834</PackageIdentityName>
+    <IntermediateOutputPath>C:\GitHub\Windows_8_1_Samples\SampleApp\SampleApp\SampleApp.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>04382F7F768845E9ECB507BEA57D9A87AE3EDBB742D184979A510EAFE150A337</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>6d005d37-c3f7-4792-a964-c9bc0278b834_1.0.0.0_neutral__bdgyqe6a5khmj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>6d005d37-c3f7-4792-a964-c9bc0278b834_bdgyqe6a5khmj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>6d005d37-c3f7-4792-a964-c9bc0278b834</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Vijaychandar</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\GitHub\Windows_8_1_Samples\SampleApp\SampleApp\SampleApp.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-15T11:23:22.899</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\GitHub\Windows_8_1_Samples\SampleApp\SampleApp\SampleApp.Windows\bin\Debug\SampleApp.Windows.exe">
+      <PackagePath>SampleApp.Windows.exe</PackagePath>
+      <Modified>2015-08-15T11:23:22.128</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Windows_8_1_Samples\SampleApp\SampleApp\SampleApp.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Windows_8_1_Samples\SampleApp\SampleApp\SampleApp.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Windows_8_1_Samples\SampleApp\SampleApp\SampleApp.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Windows_8_1_Samples\SampleApp\SampleApp\SampleApp.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Windows_8_1_Samples\SampleApp\SampleApp\SampleApp.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-08-15T11:23:21.801</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Windows_8_1_Samples\SampleApp\SampleApp\SampleApp.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-08-15T11:23:21.805</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Windows_8_1_Samples\SampleApp\SampleApp\SampleApp.Windows\bin\Debug\SampleApp.Windows.xr.xml">
+      <PackagePath>SampleApp.Windows.xr.xml</PackagePath>
+      <Modified>2015-08-15T11:23:21.656</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Windows_8_1_Samples\SampleApp\SampleApp\SampleApp.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-08-15T11:23:22.519</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

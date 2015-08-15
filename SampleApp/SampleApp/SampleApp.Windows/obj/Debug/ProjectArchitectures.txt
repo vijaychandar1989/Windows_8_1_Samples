@@ -1,0 +1,1 @@
+C:\GitHub\Windows_8_1_Samples\SampleApp\SampleApp\SampleApp.Windows\SampleApp.Windows.csproj;neutral
