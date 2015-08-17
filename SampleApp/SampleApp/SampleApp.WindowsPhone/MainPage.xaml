@@ -9,6 +9,6 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-
+        <TextBlock HorizontalAlignment="Left" Margin="44,263,0,0" TextWrapping="Wrap" Text="This is a Windows Phone App" VerticalAlignment="Top" Height="75" Width="270" FontSize="22"/>
     </Grid>
 </Page>
